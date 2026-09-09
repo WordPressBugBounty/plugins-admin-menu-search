@@ -3,7 +3,7 @@ Contributors: herchen
 Tags: admin menu search, search admin menu, admin menu, admin search, menu
 Text Domain: admin-menu-search
 Donate link: https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=8NJPQ6RHLT5HN&source=url
-Tested up to: 6.7.1
+Tested up to: 7.1
 License: GPL2
 License URI: https://www.gnu.org/licenses
 
@@ -17,9 +17,9 @@ Just enter a few characters in the Search Menus field and the Admin Menu will be
 
 Submenus are also included in the search, so if you're looking for "Widgets" it will keep the "Appearance" menu in the list because Widgets lives under Appearance / Widgets.
 
-<a rel="me" href="https://motern.media/@herchenroder">Follow Me on Mastodon</a>
-
 == Changelog ==
+
+2.1.6 Tested latest WP version
 
 2.1.5 Tested latest WP version
 
